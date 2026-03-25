@@ -98,4 +98,10 @@ Each entry contains:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/YOUR_USERNAME/Resume-Category-Predictor.git
+git clone https://github.com/Tamanna006/Resume-Category-Predictor.git
+
+2. Navigate to folder:
+cd Resume-Category-Predictor
+
+3. Run the notebook:
+Open the .ipynb file in Jupyter Notebook
